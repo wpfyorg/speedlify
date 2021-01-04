@@ -8,5 +8,7 @@ module.exports = {
 		"https://wpfy.org/",
 		"https://wpfy.org/adding-a-putty-ppk-key-to-macos-ssh-terminal/",
 		"https://wpfy.org/host-any-external-file-locally-in-wordpress/",
+		"https://www.moneywithmoney.in/",
+		"https://www.hridayindia.in/"
 	]
 };
